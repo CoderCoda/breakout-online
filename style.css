@@ -1,0 +1,55 @@
+/* Mitchell Li */
+canvas {
+	display: block;
+	background: black;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	text-align: center;
+	font-family: monospace;
+}
+
+h1 {
+	font-size: 30pt;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+h3 {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+p {
+	padding: 0;
+	margin: 3px;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+#top {
+	margin-top: 35px;
+}
+
+#bottom {
+	margin-bottom: 35px;
+}
+
+#cheat {
+	width: 20%;
+	margin: auto;
+}
+
+#cheat input {
+	display: inline;
+	float: none;
+}
